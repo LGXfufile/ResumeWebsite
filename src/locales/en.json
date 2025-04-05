@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "about": "About Me",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Hi, I'm",
+    "subtitle": "Full Stack Engineer",
+    "description": "A passionate full-stack developer dedicated to creating high-quality user experiences and scalable technical solutions.",
+    "contact": "Contact Me",
+    "viewProjects": "View Projects",
+    "coreSkills": "Core Skills"
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I am an experienced full-stack developer skilled in using modern technology stacks to solve complex technical challenges. My career began at a well-known internet company where I built a solid technical foundation.",
+    "description2": "In my work, I focus not only on technical depth but also on how to transform technology into real business value. I believe continuous learning and technical innovation are key to maintaining competitiveness.",
+    "education": "Education",
+    "personalInfo": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "current": "Present",
+    "skills": "Skills",
+    "responsibilities": "Responsibilities"
+  },
+  "projects": {
+    "title": "Projects",
+    "viewDemo": "View Demo",
+    "viewCode": "View Code",
+    "technologies": "Technologies"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "If you're interested in my experience or have any opportunities for collaboration, feel free to contact me.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again later."
+  }
+} 

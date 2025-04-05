@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "about": "关于",
+    "experience": "经历",
+    "projects": "项目",
+    "contact": "联系"
+  },
+  "home": {
+    "title": "你好，我是",
+    "subtitle": "专业职称",
+    "description": "一位充满激情的专业人士，在您的领域拥有专业知识。致力于提供卓越的成果并创造有意义的影响。",
+    "contact": "联系我",
+    "viewProjects": "查看项目",
+    "coreSkills": "核心技能"
+  },
+  "about": {
+    "title": "关于我",
+    "description1": "我是一位充满激情的专业人士，在[您的领域]拥有[X]年的经验。我的职业生涯始于[大学/公司]，在那里我建立了[关键技能/技术]的坚实基础。",
+    "description2": "在我的职业生涯中，我有机会与不同的团队合作并应对复杂的挑战。我相信持续学习并保持对最新行业趋势的了解。",
+    "education": "教育背景"
+  },
+  "contact": {
+    "title": "联系我",
+    "description": "如有任何问题或机会，请随时联系我。",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "消息",
+      "submit": "发送消息"
+    }
+  }
+} 
